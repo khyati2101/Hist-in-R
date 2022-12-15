@@ -1,0 +1,2 @@
+a<-c(2,10,13,18,21,24)
+hist(a,col="blue",xlab="lol",ylab="hihi",main="haha",xlim=c(0,25),breaks=4)'
